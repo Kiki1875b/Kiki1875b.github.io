@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://Kiki1875b.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Making a new Website</title>
+      <link>https://Kiki1875b.github.io/blog/first-blog/</link>
+      <pubDate>Sun, 07 May 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://Kiki1875b.github.io/blog/first-blog/</guid>
+      <description>For a long time this website has had a couple of links to contact me, but those days are over.
+Now I have a brand new Hugo website with a custom written theme complete with
+ A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog  Why Hugo? The first question is why a site builder?</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://Kiki1875b.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
